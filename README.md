@@ -1,4 +1,8 @@
-![alt-text-1](img/PopSkully_Tag.jpg) ![alt-text-2](img/pug.png)
+<p align="center">
+  <img alt="Light" src="./img/PopSkully_Tag.jpg" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="./img/pug.png" width="45%">
+</p>
 
 ## Foundry
 
