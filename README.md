@@ -1,4 +1,4 @@
-![alt text](images/PopSkully_Tag.jpg) ![alt text](images/pug.png)
+![alt text](img/PopSkully_Tag.jpg) ![alt text](img/pug.png)
 
 ## Foundry
 
